@@ -92,6 +92,12 @@ public class ExchangeAPI {
             e.printStackTrace();
         }
         return eachRate;
+
+
+
+
+
+
     }
 
 
